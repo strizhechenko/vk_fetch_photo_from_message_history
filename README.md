@@ -18,4 +18,4 @@ TARGET_USER_ID можно узнать из URL при открытии диал
 
 ### Пример
 
-USER_LOGIN='vasyapupkin' USER_PASSWORD='supersecurepassword' TARGET_USER_ID='1432148' python ./download.py
+	USER_LOGIN=vasyapupkin USER_PASSWORD=securepassword TARGET_USER_ID=1 python ./download.py
